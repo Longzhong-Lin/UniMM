@@ -57,6 +57,8 @@ Leveraging insights from our exploration, the distinct variants proposed within 
 
 [TBA] Code release is coming soon. Stay tuned!
 
+[2025-06] We're thrilled to share that [UniMM](https://storage.googleapis.com/waymo-uploads/files/research/2025%20Technical%20Reports/2025%20WOD%20Sim%20Agents%20Challenge%20-%20Honorable%20Mention%20-%20UniMM.pdf) has received an Honorable Mention in the [Waymo Open Sim Agents Challenge (WOSAC) 2025](https://waymo.com/open/challenges/)! Huge thanks to the organizers and congratulations to all the amazing teams!
+
 [2025-01] The paper has been released on [arXiv](https://arxiv.org/pdf/2501.17015).  
 
 
